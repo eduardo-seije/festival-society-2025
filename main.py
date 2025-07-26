@@ -7,7 +7,7 @@ st.write("---")
 
 
 # Leitura dos dados da planilha Excel
-arquivo_excel = 'tabela_festival_2025.xlsx'  # Substitua pelo caminho do seu arquivo
+arquivo_excel = 'tabela_festival_2025_dalton.xlsx'  # Substitua pelo caminho do seu arquivo
 df = pd.read_excel(arquivo_excel)
 
 
